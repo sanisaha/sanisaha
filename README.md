@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, aws hosting**
 
-- 👨‍💻 My recent projects link: [https://carry-you.web.app/ https://data-schooling-online.web.app/](https://carry-you.web.app/ https://data-schooling-online.web.app/)
+- 👨‍💻 My recent projects link: [https://car-finder-54e54.web.app/ https://carry-you.web.app/]
 
 - 💬 Ask me about **reactjs, nodejs**
 
