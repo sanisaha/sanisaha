@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg)]
 <h1 align="center">Hi 👋, I'm Sani Saha</h1>
 <h3 align="center">A passionate frontend developer from Finland</h3>
 <img align="right" alt="Coding" width="400" src="https://usersnap.com/blog/wp-content/uploads/2017/04/college-study-web-development-2.png">
