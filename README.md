@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Finland</h3>
 <img align="right" alt="Coding" width="400" src="https://usersnap.com/blog/wp-content/uploads/2017/04/college-study-web-development-2.png">
 
-- 🌱 I’m currently learning **Next.js, aws hosting**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 My recent projects link: [https://car-finder-54e54.web.app/ https://carry-you.web.app/]
 
