@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sani Saha</h1>
-<h3 align="center">A passionate frontend developer from Finland</h3>
+<h3 align="center">A passionate fullstack developer from Finland</h3>
 <img align="right" alt="Coding" width="400" src="https://usersnap.com/blog/wp-content/uploads/2017/04/college-study-web-development-2.png">
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 My recent projects link: [https://willowy-capybara-009bb4.netlify.app https://carry-you.web.app/]
+- 👨‍💻 My recent projects link: https://willowy-capybara-009bb4.netlify.app https://carry-you.web.app/
 
 - 💬 Ask me about **reactjs, nodejs**
 
