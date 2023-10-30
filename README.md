@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sani Saha</h1>
 <h3 align="center">A passionate fullstack developer from Finland</h3>
 
+<h1>Statistics</h1>
 
-<h1>![](https://komarev.com/ghpvc/?username=sanisaha&style=flat-square&color=green)</h1>
+![](https://komarev.com/ghpvc/?username=sanisaha&style=flat-square&color=green)
 
 ![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&theme=radical)
 
