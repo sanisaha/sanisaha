@@ -2,6 +2,8 @@
 <h3 align="center">A passionate fullstack developer from Finland</h3>
 <img align="right" alt="Coding" width="400" src="https://usersnap.com/blog/wp-content/uploads/2017/04/college-study-web-development-2.png">
 
+![](https://komarev.com/ghpvc/?username=sanisaha&style=flat-square&color=green)
+
 - 🌱 I’m currently working in **Next.js-Drupal** project
 
 - 👨‍💻 My recent projects link: https://country-project-60698.web.app/ https://four-wheeler-project.web.app/
