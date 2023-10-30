@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&theme=gotham&hide_progress=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=gotham)]
 
 - 🌱 I’m currently working in **Next.js-Drupal** project
 
