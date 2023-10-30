@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 My recent projects link: https://willowy-capybara-009bb4.netlify.app https://carry-you.web.app/
+- 👨‍💻 My recent projects link: https://country-project-60698.web.app/ https://carry-you.web.app/ https://four-wheeler-project.web.app/
 
 - 💬 Ask me about **reactjs, nodejs**
 
