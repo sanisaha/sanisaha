@@ -7,7 +7,7 @@
 
 ![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&theme=gotham&hide_progress=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=gotham)](https://git.io/streak-stats)
 
