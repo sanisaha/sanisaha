@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&hide_progress=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=gotham)](https://git.io/streak-stats)
+
 - 🌱 I’m currently working in **Next.js-Drupal** project
 
 - 👨‍💻 My recent projects link: https://country-project-60698.web.app/ https://four-wheeler-project.web.app/
