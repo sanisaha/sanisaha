@@ -7,7 +7,7 @@
 
 ![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=donut)](https://github.com/sanisaha/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&hide_progress=true)
 
 - 🌱 I’m currently working in **Next.js-Drupal** project
 
