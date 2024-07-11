@@ -11,7 +11,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=gotham)
 
-- 🌱 I’m currently working in **Next.js-Drupal** project
+- 🌱 I’m currently working in **C#** project
 
 - 👨‍💻 My recent projects link: https://country-project-60698.web.app/ https://four-wheeler-project.web.app/
 
