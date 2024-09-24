@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sani Saha</h1>
 <h3 align="center">A passionate fullstack developer from Finland</h3>
-
-<h1 align="center">👋 Hi, I'm Sani Saha</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanisaha&style=flat-square&color=green" alt="Profile views" />
 </p>
