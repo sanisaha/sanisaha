@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sanisaha&style=flat-square&color=green)
 
-![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanisaha?count_private=true&show_icons=true&theme=radical)
+![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true?count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=radical)
 
