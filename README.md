@@ -1,29 +1,52 @@
 <h1 align="center">Hi 👋, I'm Sani Saha</h1>
 <h3 align="center">A passionate fullstack developer from Finland</h3>
 
-<h1>Statistics</h1>
+<h1 align="center">👋 Hi, I'm Sani Saha</h1>
 
-![](https://komarev.com/ghpvc/?username=sanisaha&style=flat-square&color=green)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanisaha&style=flat-square&color=green" alt="Profile views" />
+</p>
 
-![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true?count_private=true&theme=radical)
+## 🚀 About Me
+- 🌱 I’m currently working on a **C#** project
+- 💬 Ask me about **Next.js, React.js, C#, PHP**
+- 👨‍💻 Check out my recent projects:
+  - [SmartFeet](https://smartfeet-ceeb7.web.app/)
+  - [FourWheeler](https://four-wheeler-project.web.app/)
+- 📫 Reach me at: **sanisaha.hu@gmail.com**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=radical)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=radical)
+## 📊 GitHub Statistics
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanisaha&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&count_private=true&theme=radical" alt="Sani's GitHub stats" width="50%" />
+</p>
 
-- 🌱 I’m currently working in **C#** project
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+</p>
 
-- 👨‍💻 My recent projects link: https://smartfeet-ceeb7.web.app/ https://four-wheeler-project.web.app/
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sanisaha&theme=radical" alt="GitHub Streak" width="50%" />
+</p>
 
-- 💬 Ask me about **Next.js reactjs, C# PHP**
+---
 
-- 📫 How to reach me **sanisaha.hu@gmail.com**
+## 🏆 Achievements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sani-saha-28978aa4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sani-saha-28978aa4/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanisaha&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💼 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sani-saha-28978aa4/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
