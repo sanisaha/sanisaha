@@ -7,9 +7,11 @@
 
 ![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&theme=gotham&hide_progress=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=gotham)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sanisaha&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanisaha&theme=radical)
 
 - 🌱 I’m currently working in **C#** project
 
