@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently working in **C#** project
 
-- 👨‍💻 My recent projects link: https://country-project-60698.web.app/ https://four-wheeler-project.web.app/
+- 👨‍💻 My recent projects link: https://smartfeet-ceeb7.web.app/ https://four-wheeler-project.web.app/
 
-- 💬 Ask me about **Next.js reactjs, Drupal**
+- 💬 Ask me about **Next.js reactjs, C# PHP**
 
 - 📫 How to reach me **sanisaha.hu@gmail.com**
 
