@@ -17,15 +17,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&count_private=true&theme=vue_dark" alt="Sani's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&count_private=true&theme=solarized-dark" alt="Sani's GitHub stats" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=vue_dark" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=solarized-dark" alt="Top Languages" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanisaha&theme=vue_dark" alt="GitHub Streak" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=sanisaha&theme=solarized-dark" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanisaha&theme=vue_dark" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sanisaha&theme=dracula&no-bg=true&margin-w=15" alt="GitHub Trophies" style="width: 80%; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
 </p>
 
 ---
