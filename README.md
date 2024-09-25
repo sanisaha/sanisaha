@@ -17,15 +17,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&count_private=true&theme=radical" alt="Sani's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanisaha&show_icons=true&count_private=true&theme=vue_dark" alt="Sani's GitHub stats" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanisaha&layout=compact&theme=vue_dark" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanisaha&theme=radical" alt="GitHub Streak" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=sanisaha&theme=vue_dark" alt="GitHub Streak" width="50%" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanisaha&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanisaha&theme=vue_dark" alt="GitHub Trophies" />
 </p>
 
 ---
